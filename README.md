@@ -1,2 +1,2 @@
 # yabec
-Yet Another Ben Elton Computer
+Yet Another Ben Eater Computer
